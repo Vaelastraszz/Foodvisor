@@ -14,5 +14,3 @@ class Node:
     def is_parent(self, value):
         return self.label == value
 
-    def get_children(self):
-        pass

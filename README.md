@@ -1,4 +1,4 @@
-# Foodvisor Coding Assessement
+# Foodvisor Coding Assessment
 
 Comme demandé le projet a été mis sous forme de github. Le projet se décompose en trois fichiers :
 - Le premier contient ma classe Node

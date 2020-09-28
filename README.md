@@ -10,3 +10,9 @@ J'ai exécté le code et retrouvé les mêmes résultats attendus dans le Json d
 Il n'y a aucun librairie à installer pour faire marcher le code j'ai juste utiliser la librairie json pour ouvrir les diff"rents fichiers json pour build le graph, l'éditer et ajouter des extracts.
 
 Si il y a des questions ne pas hésiter à me contacter :)
+
+# Pour éxécuter le code
+- Donwload le repository
+- Changer le chemin des divers fichiers json qui sont testés edit graph, build, extract..
+- Exécuter le main 
+
